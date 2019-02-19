@@ -1,0 +1,2 @@
+# allowdemon
+simple scrapy project
